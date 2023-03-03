@@ -1,9 +1,9 @@
 # C Programming Language
 
-This template repository contain all my working of 'C Language' stepwise
+This template repository contain all my working of `C Language` stepwise
 
 ## Description
-In this project we are loking at 'CProgramming Language' step by step visiting each sub-topic as **Low-Level Language**
+In this project we are loking at `CProgramming Language` step by step visiting each sub-topic as **Low-Level Language**
 
 ## Projects
 1. [Hello world](https://github.com/penscola/alx-low_level_programming/tree/master/0x00-hello_world)
