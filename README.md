@@ -14,3 +14,4 @@ In this project we are loking at `CProgramming Language` step by step visiting e
 6. [Pointer arrays and string](https://github.com/penscola/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 7. [Pointer arrays and string](https://github.com/penscola/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
 8. [Even more pointers, arrays and strings](https://github.com/penscola/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
+9. [Recursion](https://github.com/penscola/alx-low_level_programming/tree/master/0x08-recursion)
